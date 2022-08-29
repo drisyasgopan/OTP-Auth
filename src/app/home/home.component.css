@@ -1,0 +1,12 @@
+
+body{
+    background-size: contain;
+
+}
+
+.box{
+    /* background: linear-gradient(rgb(176, 176, 243),rgb(240, 240, 163)); */
+    background:url(https://wallpapercave.com/wp/wp2561062.jpg);
+    border-radius: 15px;
+    border-color: white;
+}
